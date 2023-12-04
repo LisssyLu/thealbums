@@ -1,0 +1,36 @@
+* { text-align: center;
+font-size: x-large;
+font-family:'Arial Narrow Bold' ;}
+
+
+body {background-color: rgb(255, 255, 255);
+   color: rgb(49, 49, 247);
+text-align: center;
+font-family:Arial;}
+
+title {color:rgb(49, 49, 247);}
+h1 {color: rgb(49, 49, 247)}
+   p {color: rgb(49, 49, 247);}
+
+   li a:-webkit-any-link {
+      color: -webkit-link;
+      cursor:pointer;
+      text-decoration: none;
+      color:rgb(0, 8, 255);
+      }
+      
+      
+      li {list-style-type: none;
+      margin: 0;
+      padding: 0;}
+
+      li a:hover{color:rgb(255, 119, 0);}
+      
+      div {
+         margin: 25px 50px 75px 100px;
+     
+     }
+
+     b{
+      color:rgb(0, 8, 255);
+     }
